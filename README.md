@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi there! 👋 I'm Aditya Kumar
+# Hi there! 👋 I'm Aditya Kumar 
+# Talk is easy see my code
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&width=600&lines=Software+Developer;Full+Stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
 
