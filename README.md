@@ -61,8 +61,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unsortedbytes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsortedbytes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=makefile&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unsortedbytes&layout=compact&langs_count=8&theme=nightowl&remove=Makefile&ignore=Makefile"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unsortedbytes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" /> -->
+  <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unsortedbytes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+  
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsortedbytes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=makefile&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" /> -->
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=unsortedbytes&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
