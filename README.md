@@ -3,9 +3,9 @@
 # Hi there! 👋 I'm Aditya Kumar 
 ## Talk is easy see my code
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&width=600&lines=Software+Developer;Full+Stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 </div>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&width=600&lines=Software+Developer;Always+learning+new+technologies)](https://git.io/typing-svg) -->
 
 ---
 
@@ -88,7 +88,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/aditya-kumar-b7b79b22b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:adi.bytes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/unsortedbytes" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" /></a>
 </p>
 
-<br>
+<!-- <br>
 
 ```python
 developer = {
@@ -99,7 +99,7 @@ developer = {
 }
 ```
 
-<br>
+<br> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
